@@ -1,0 +1,32 @@
+.container-fluid{
+    background-color:black ;
+    color: white;
+    display: flexbox;
+}
+span{
+    color: red;
+}
+h2{
+    text-align: end;
+    padding: 10px;
+    
+}
+h1{
+    padding: 10px;
+    text-transform: uppercase;
+    text-size-adjust: 50px;
+    font-size: x-large;
+}
+.hero{
+    background-size: cover;
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/027/487/741/original/daniel-reiter-optimizedrolexgif.gif?1591690237);
+background-position: center;
+
+}
+.display-5,p{
+    color: white;
+    }
+
+    .card-text{
+        color: black;
+    }
